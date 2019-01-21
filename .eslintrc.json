@@ -1,0 +1,10 @@
+{
+	"root": true,
+	"extends": "plugin:@wordpress/eslint-plugin/recommended",
+	"parserOptions": {
+		"sourceType": "module",
+		"ecmaFeatures": {
+			"jsx": true
+		}
+	}
+}
