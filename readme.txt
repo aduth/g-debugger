@@ -18,7 +18,7 @@ In this early release, current features include:
 
 * **"Attribute Inspector"** shows a detailed breakdown of a block's current attribute values.
 
-Have a suggestion for a new feature? [Submit your request](https://github.com/aduth/g-debugger/issues/new?labels=Feature%20Request) on the project's GitHub repository.
+Have a suggestion for a new feature? [Submit your request](/issues/new?labels=Feature%20Request) at the project's GitHub repository. The GitHub repository serves as the primary location for development should you need reference to original source code material, or in case you'd like to contribute to the plugin via pull request.
 
 == Installation ==
 
